@@ -1,2 +1,2 @@
 
-![GPG by gnu](https://imgur.com/CDo2tDY)
+![GPG by gnu](https://i.imgur.com/CDo2tDY.png)

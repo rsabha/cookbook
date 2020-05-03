@@ -2,7 +2,6 @@
 ![gnuPG ontop of openPGP pretty good privacy](https://i.imgur.com/Vma72N0.png)
 
 ```
-
 --- MASTER PRIV KEY ----------------- 
 
 ability: [certify] - create subkeys 
@@ -15,7 +14,8 @@ ability: [certify] - create subkeys
                                       
 ------------------------------------- 
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+````
+````
 
 --- SUB PRIV KEY --------------------
 
@@ -31,6 +31,4 @@ ability: [sign] - add signature to
 --- SUB PRIV KEY --------------------
 
 ...
-
-
 ```

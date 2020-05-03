@@ -35,5 +35,5 @@ ability: [sign] - add signature to
 
 ```
 
-upload your master-pub-key idenity to a keyserver, or share in-private
-with friends.
+generate master keypair with options `--expert` and `--full-gen`, then
+afterwards you can `--edit-key` to add subkeys.

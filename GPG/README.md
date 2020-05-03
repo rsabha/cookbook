@@ -1,7 +1,2 @@
-## GnuPG - free implementation of OpenPGP
 
-GPG by gnu
-___
-openPGP
-pretty good privacy
-
+![GPG by gnu](https://imgur.com/CDo2tDY)

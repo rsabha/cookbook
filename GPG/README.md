@@ -3,16 +3,34 @@
 
 ```
 
---- MASTER PRIV KEY -----------------
+--- MASTER PRIV KEY ----------------- 
 
-ability: [certify] - create subkeys
+ability: [certify] - create subkeys 
+                                      
+--- MASTER PUB KEY ------------------ 
+                                      
++encoded: UID (name, email, comment),  
+          subkeys fingerprints,       
+          expire date, signatures     
+                                      
+------------------------------------- 
 
---- MASTER PUB KEY ------------------
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-+encoded: UID (name, email, comment),
-          subkeys fingerprints,
-          expire date, signatures
--------------------------------------
+--- SUB PRIV KEY --------------------
+
+ability: [encrypt] - files or text
+
+--- SUB PRIV KEY --------------------
+
+ability: [sign] - add signature to
+         messages, files, or add your
+         signature to other users
+         master public key
+
+--- SUB PRIV KEY --------------------
+
+...
 
 
 ```

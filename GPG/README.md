@@ -9,12 +9,10 @@ ability: [certify] - create subkeys
 --- MASTER PUB KEY ------------------ 
                                       
 +encoded: UID (name, email, comment),  
-          subkeys fingerprints,       
-          expire date, signatures     
+          subkeys fingerprint,       
+          expire dates, signatures     
                                       
 ------------------------------------- 
-
-````
 
 ````
 
@@ -34,3 +32,6 @@ ability: [sign] - add signature to
 ...
 
 ```
+
+upload your master-pub-key idenity to a keyserver, or share in-private
+with friends.

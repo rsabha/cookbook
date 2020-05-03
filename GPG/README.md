@@ -1,7 +1,7 @@
 
 ![gnuPG ontop of openPGP pretty good privacy](https://i.imgur.com/Vma72N0.png)
 
-## What can you do with GPG?
+What can you do with GPG?
 
 you can add a signature to your github commits.
 receive or send encrypted message + signature.

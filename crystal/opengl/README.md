@@ -1,6 +1,4 @@
 ## openGL
 
-## GLFW
-
-an openGL library
+## GLFW - an openGL library
 

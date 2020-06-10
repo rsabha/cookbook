@@ -4,9 +4,13 @@
 What can you do with GPG?
 
 you can add a signature to your github commits.
+
 receive or send encrypted message + signature.
+
 encrypt your files, or add signature to files.
+
 add your signature to others master public key.
+
 post message online with your signature.
 
 

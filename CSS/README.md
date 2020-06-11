@@ -12,7 +12,7 @@ properties: `color:, text-align:, background-color:`
 
 you can style a single element, or they can be grouped.
 
-```
+```css
 p { }
 p, h1, h2 { }
 ```
@@ -53,7 +53,7 @@ files.
 
 variables are possible in `.scss` files:
 
-```
+```css
 $background-color: #544a56;
 
 body {
@@ -80,7 +80,7 @@ id's can only be referenced once per page, by an element. and may only contain a
 green"`. besides css they also have a special function that can
 be used. example:
 
-```
+```css
 <body>
 <a href="#article">article</a>
 ...9000 lines of code later...
